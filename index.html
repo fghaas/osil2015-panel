@@ -26,11 +26,6 @@
   <body>
     <div class="reveal">
       <div class="slides">
-        <section>
-	  <div class="qrcode" id="qrcode-tweet"/>
-	  <p><a href="https://goo.gl/PEx3nz" target="_blank"
-		id="tweet"></a></p>
-        </section>
         <section id="intro"
                  data-markdown="markdown/intro.md"
                  data-separator="^\n\n\n"
@@ -81,6 +76,17 @@ Reveal.initialize({
         { src: '//cdnjs.cloudflare.com/ajax/libs/socket.io/0.9.10/socket.io.min.js', async: true },
     ]
 });
+    </script>
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26017039-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
     </script>
     <script src="qrcodejs/qrcode.js"></script>
     <script type="text/javascript">
