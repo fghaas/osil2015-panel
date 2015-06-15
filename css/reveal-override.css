@@ -93,10 +93,6 @@ body,
 }
 
 
-.reveal a {
-    font-family: "Special Elite", monospace !important;
-}
-
 .reveal code {
     font-family: "Special Elite", monospace !important;
     color: black !important;
