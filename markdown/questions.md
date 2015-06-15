@@ -4,7 +4,6 @@ to your
 ## company?
 
 
-
 What's the most
 # broken
 thing in OpenStack right now?
@@ -17,11 +16,9 @@ what are
 contributing to the fix?
 
 
-
 What's the
 # best
 thing in OpenStack right now?
-
 
 
 <!-- .slide: data-background-image="gartner-hype-cycle.png" data-background-size="contain" -->
