@@ -93,10 +93,6 @@ body,
 }
 
 
-.reveal a {
-    font-family: "Special Elite", monospace !important;
-}
-
 .reveal code {
     font-family: "Special Elite", monospace !important;
     color: black !important;
@@ -123,6 +119,12 @@ body,
     margin-left:-20vw;
     margin-top:-10vh;
     text-shadow: none;
+}
+
+.reveal .caption {
+  font-size: 0.5em !important;
+  background: rgba(127,127,127,0.2);
+  padding: 0.1em;
 }
 
 @media print {
