@@ -1,5 +1,3 @@
-## OpenStack
-# Pride
-and
-### Prejudice
-OpenStack Israel Closing Panel
+The
+# Joy & Pain
+of OpenStack
